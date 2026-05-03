@@ -72,13 +72,9 @@ Immediate feedback (shake, flash)
 Smooth motion (no artificial slowdown)
 Readable visual language
 
-> Tech Stack
+> Tech Used
 Python 3
 Pygame
-
-> How to Run
-pip install pygame
-python main.py
 
 > Future Improvements (most probably not)
 Sound effects + music
